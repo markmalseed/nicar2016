@@ -1,2 +1,2 @@
 # nicar2016
-sample repository
+simple repository
